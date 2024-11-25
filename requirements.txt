@@ -1,2 +1,10 @@
 requests
 beautifulsoup4
+transformers
+datasets
+torchmetrics
+matplotlib
+pandas
+numpy
+tqdm
+torch
