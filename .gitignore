@@ -163,5 +163,7 @@ cython_debug/
 *.zip
 */old/*
 *.exe
+/saved_models
+.DS_Store
 *.pt
 *sandbox*
