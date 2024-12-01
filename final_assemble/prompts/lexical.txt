@@ -1,0 +1,100 @@
+Provide comments on the Lexical Resource aspect of an IELTS Task 2 Writing response.
+Use the following 'Prompt' as the test question and the 'Essay' as the test taker's written response.
+Consider the following marking scheme criteria for Lexical Resource: 
+
+"Band Score 5: - Minimal range of vocabulary for the task. - Frequent errors with spelling or word formation. - Problems cause difficulty for the reader."
+"Band Score 6: - Adequate range of vocabulary for the task. - Uses some less common words but with errors. - Some errors in spelling and word formation. - Communication is clear."
+"Band Score 7: - A sufficient range of vocabulary for some precision. - Uses less common words. - Some awareness of style and collocations. - Occasional errors in spelling or word choice."
+"Band Score 8: - A wide range of vocabulary for precise meaning. - Skillfully uses less common words. - Rare errors in spelling or word formation."
+
+Here are a few Lexical Resource comments on the student essays, you goal is to study how human expert provide comments, and provide a comment on a new essay.
+Example 1 (student got 5.0 on Lexical Resource): 
+Prompt: Interviews form the basic selecting criteria for most large companies. However, Interviews form the basic criteria for most large companies. However, some people think that the interview is not a reliable method of choosing whom to employ and there are other better methods. To what extent do you agree or disagree?
+
+Essay: The meeting is the principal for selecting the mass big firm. I agree with this statement. The interview is a reliable practice.
+
+To begin with, many reasons why an interview is an important way to apply to recruiters.First and foremost, an interview is the only method in which employers can get an idea about a candidate's personality and social skills and also know about her nature in hearing candidates get face to face communication. ,Also employees can judge their ability how to handle any situation, hard work and pressure and also ask study questions, but also know about their knowledge.
+
+On the other, hand there  are many other selection methods with varied  advantages. one of the other common methods is  preferred when the focus is on  jugging  theoretical knowledge. For example, some in it companies theoretical knowledge is very important because employees have to send an email to their clients.Last but not least, there is their source and after the interview first written test second group discussion and final an  interview.
+
+To conclude, I agree that interview is a reliable method because without an interview employees do not get a candidate's ability.
+
+Comment from human expert: The essay demonstrates a limited range of vocabulary. The candidate has made several mistakes in vocabulary, including inaccuracies and overuse of certain words. The essay would benefit from the use of more precise and varied vocabulary.
+
+
+Example 2 (student got 6.0 on Lexical Resource): 
+Prompt: The increase in the production of consumer consumption goods results in damage to the natural environment. What are the causes of this and what can be done to solve this problem?
+
+Essay: The growing amounts of fast-moving consumer goods production poses harm to the ecosystem. This phenomenon is attributed to the abundant trash of plastic containers and the lack of recycling facilities. To address this issue, the government should force companies to take part in recycling their packaging rubbish. 
+
+The increasing production of consumer goods is related to the public’s demand for those products, thus there will be a pile-up of packaging waste. Most of these items use plastic and they are only used once, then they will directly go to the dustbin. This practice definitely will be harmful because not all countries have sufficient facilities to recycle the garbage. Most of them could not handle all of the trash because the machine capacity could not catch up with the rates of incoming items. The remaining trash unprocessed will end up in the landfill and take decades to decay. CNBC reported that a recycling factory in Singapore could only process a third of all garbage that comes in a day.
+
+To tackle this predicament, the government should involve the businesses that manufacture those fast-moving consumer products to beef up the recycling program and initiate distributing products in a greener way without exacerbating the current situation. The factories should be responsible for recycling their used package, hence the responsibility of processing garbage not only falls on those public recycling facilities but also the manufacturer. Moreover, companies should implement the alternative of buying items in a more environmentally friendly approach. For instance, Unilever sells their refill detergent at the supermarket, by refilling the old container or people can bring their bottles.
+
+In conclusion, the destruction of the environment caused by increasing goods consumption is mainly caused by the growing number of waste and insufficient recycling factories’ capacity. This problem can be addressed by the role of the authority to force the companies to be responsible in waste management and impose a more green approach in their distribution strategy.
+
+Comment from human expert: The essay demonstrates a limited range of vocabulary. There are some inaccuracies and overuse of certain words, such as ""garbage"" and ""trash."" The vocabulary is somewhat appropriate for the context, but could be enhanced with more precise and varied terms. Mistake: ""pileup of packaging waste"" > Modified: ""accumulation of packaging waste"" Mistake: ""beef up the recycling program"" > Modified: ""enhance the recycling initiatives"" Mistake: ""garbage not only falls on those public recycling facilities but also the manufacturer"" > Modified: ""responsibility for waste management is shared between public recycling facilities and manufacturers
+
+
+Example 3 (student got 7.0 on Lexical Resource): 
+Prompt: Advertisements are becoming more and more common in everyday life. Is it a positive or negative development
+
+Essay: There is a tremendously controversial perspective heating debate over the ever-increasing well-known commercial activities in this day and age. While this phenomenon has both pros and cons, I would contend that its merits may outweigh its demerits
+
+Without a shadow of a doubt, marketing plays a paramount significant role in daily life for the time being because it can help a wealth of people know and purchase decent products which they need via advertising videos on social media or television. Hence more and more corporations invest in marketing practices in order to promote their commodities. For example, there is an eclectic mix of firms that use the advertising services of Youtube such as Grammarly application’s corporations so inhabitants could be recommended a lot of intriguing things while watching Youtube like this application. As a consequence, companies and consumers put a premium on advertising activities. 
+
+While the redeeming features of advertisement are widely acknowledged, its counterpart still lingers. Nowadays, some people are not interested in marketing activities because they believe it is comparatively annoying and spoils their mood. For instance, when they are watching some blockbusters or interesting vlogs on Youtube, advertising videos suddenly emerge and they have to wait for the end of these videos, which makes them feel unhappy and uncomfortable. As a result, promotion activities bring an undesirable impact on users. 
+
+To summarize, the rapid advancement of using advertisements have either advantages or disadvantages. However, I would contend that it would do more good than harm.
+
+Comment from human expert: The essay exhibits a good range of vocabulary, particularly in the introduction and conclusion. However, there are some instances of inaccuracies and repetitive use of certain words throughout the essay. For example, the candidate uses the term ""marketing"" repeatedly when ""advertising"" or ""promotion"" would be more appropriate.
+
+
+Example 4 (student got 8.0 on Lexical Resource): 
+Prompt: Education of young people is highly prioritized in many countries. However, educating adults who cannot write or read is even more important and governments should spend more money on this. To what extent do you agree or disagree?
+
+Essay: Nowadays, what kind of people need to be educated is widely discussed. Some people assert that young adults like high school or college students should be taught in priority, whereas others believe that folks without enough literacy more needed to be trained. Personally, I am in favour of the former view because I believe youngsters represent the future of our nation and grownups lacking literary skills can still make a living by performing low-skilled tasks.
+
+On the one hand, the advancement of a nation depends on how the future generation is trained. This is because adolescents who are not yet exposed to society and do not have to worry about making a living, have plenty of time and possibilities to learn specialized skills. In other words, since candidates for professional work must spend a long time  learning and receiving the right training, investing in youth education is a must in order to cultivate future professionals, for instance, doctors, nurses, and scientists. In addition, a well-trained workforce will also enable a wide range of businesses and industries to thrive, fostering international trade and forthcoming wealth growth. 
+
+While people calling for adult teaching emphasize the importance of providing all citizens with some basic education, the benefits of adult education are quite limited. To illustrate, some grownups who are illiterate may simply work repeatedly at low-skilled jobs such as assembly line workers, yet they still receive an average income to cover their basic needs. Apart from that, adults may have missed the optimal time to study compared to younger students, simply because studying is time-consuming and adults may find it difficult to balance part-time study and full-time work well. Therefore, it is difficult for grownups to learn as effectively and efficiently as youngsters. 
+
+In conclusion, I believe the government should place a higher priority on young teenagers' education than on adults who lack enough literacy skills. This is because a nation's progress requires advanced technology, and only those who have completed college can produce it.
+
+
+Comment from human expert: The essay demonstrates a good range of vocabulary, with appropriate and accurate word choices. However, there are some minor issues with vocabulary usage, such as ""folks"" instead of ""adults,"" ""literary skills"" instead of ""literacy skills,"" and ""advanced technology"" instead of ""specialized skills.
+
+
+Example 5 (student got 9.0 on Lexical Resource): 
+Prompt: Some people think the main purpose of school is to turn children into good citizens and workers, rather than to benefit them as individuals. To what extent do you agree or disagree?
+
+Essay: There are several arguments about the institute. many nations argue that the main goal of the academy is that what is what to make students better-disciplined citizens. while other public believe that a school is a place where they just give offspring knowledge and give good grades. I agree with this statement because  seminary institutions  teach good qualities and skills that are important for offspring today. I will give some of my opinions which I will explain in this essay
+
+firstly, young generations learn good habits and skills at faculty. the teacher trains each junior to follow the routine and makes the scholar a disciplined and organized person. in addition, the moral values that are taught at hall bring up the heir of the best quality. Maravich department plays a very important role in the upbringing of scion a. for example, r9m during the lesson, many practical lessons are given that are related to the psychology of the graduate to them they are given a task, for example, to choose bad or good what is right or wrong. Today, many schools focus on certain subjects that may help an undergraduate's future career instead of spending too much time on extra subjects for sports or extracurricular activities. 
+
+Secondly , the priority task for the academy is to teach the rules а. of civil behaviour. as a result, it will help to reduce the number of crimes and accidents that occur in the country and maintain discipline among residents. they still have to teach them to follow the rules of aesthetics and, of course, the law of the country and religion. for example, today the most developed countries, this factor is a vulnerable place for them in many cases, many citizens of these countries do not follow the rules and do not maintain discipline. this can be seen in the following situations such as garbage in the streets unclean condition of public transport and in many cases violation of traffic rules and environmental pollution. my opinion is that only an institution can effectively educate these qualities of a nation that offspring from different ages were taught these positive qualities.
+
+In conclusion, I repeat that the institute is fully responsible for а ensuring that offspring become qualified members of society. and for many societies, seminary educations is important
+
+Comment from human expert: The candidate demonstrates a good range of vocabulary, but there are some inaccuracies and overuse of certain words. Mistakes:     ""many nations argue"" > ""some people argue""     ""offspring"" > ""students""     ""the heir of the best quality"" > ""children with good qualities""     ""scion a"" > ""children""     ""Maravich department"" > ""school""     ""rm during the lesson"" > ""during the lesson""     ""undergraduate's future career"" > ""student's future career"" Modified versions:     ""many nations argue"" > ""some people argue""     ""offspring"" > ""students""     ""the heir of the best quality"" > ""children with good qualities""     ""scion a"" > ""children""     ""Maravich department"" > ""school""     ""rm during the lesson"" > ""during the lesson""     ""undergraduate's future career"" > ""student's future career"" The vocabulary used is generally appropriate for the context, but could be enhanced with more academic language.
+
+
+Notice that above example concisely evaluate each field in the marking scheme, whether the criteria is fulfilled or not, and did not provide advantages or disadvantages
+You are going to provide response only address how well the student addressed each field in the marking scheme. Ensure your comments are as concise as above examples, which evaluate each field in the marking scheme
+
+Think of the following step by step:
+1. Range of student's vocabulary?
+2. Did the student use less common words, and are those word used skillfully?
+3. How frequent are errors with spelling or word formation?
+4. Combine everything above and provide response
+
+Provide one sentence to each field of marking. Only include the comments in the response. Do not mention any band scores in your comments. 
+Evaluate following student response on Lexical Resource:
+
+
+
+
+
+
+
+

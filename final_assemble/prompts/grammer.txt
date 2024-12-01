@@ -1,0 +1,86 @@
+Provide comments on the Grammatical Range and Accuracy aspect of an IELTS Task 2 Writing response.
+Use the following 'Prompt' as the test question and the 'Essay' as the test taker's written response.
+Consider the following marking scheme criteria for Grammatical Range and Accuracy: 
+
+"Band Score 5: - Limited range of sentence structures. - Tries to use complex sentences with limited success. - Frequent errors in grammar. - Errors in punctuation. - Problems cause difficulty for the reader.",
+"Band Score 6: - Uses both simple and complex sentence structures. - Some errors in grammar. - Some errors in punctuation. - Communication is clear.",
+"Band Score 7: - Uses a variety of complex sentence structures. - Many error free sentences. - Good control over grammar. - Occasional errors in grammar or punctuation.",
+"Band Score 8: - Uses a wide range of complex structures. - Most sentences are free of errors."
+
+Here are a few Grammatical Range and Accuracy comments on the student essays, you goal is to study how human expert provide comments, and provide a comment on a new essay.
+Example 1 (student got 5.5 on Grammatical Range and Accuracy): 
+Prompt: The increase in the production of consumer goods results in damage to the natural environment. What are the causes of this? What can be done to solve this problem?
+
+Essay: It is believed that our currently natural situation is caused by the growth of consumption products. From my perspective, increasing demand for consumer products is damaging the natural climate. This essay will discuss the reasons for this problem, and some solutions.
+
+To begin with, the world population is increasing every day, which means that they will demand more products. Factories will produce amounts of consuming goods for people's needs, and this is one of the reasons of pollution. For instance, because of the smoke, citizens can not breathe normally, they literally forced to wear masks in order to protect themselves. In the end, it will affect to the global warming, admittedly the biodiversity will suffer from these actions. However, the most unfortunate is that people cannot live properly even in villages since lots of these mills are located there.
+
+On the other hand, there are some solutions that can be taken to improve the natural environment. Firstly, we can not remove totally from the factories, and we must accept this fact. Since without this our technology will not develop, and we will return to the 19th century. Nevertheless, we can take the first steps by avoiding the causes for the global warming, such as stop using plastics in our everyday life. Looking at the results of recent scientific research, thousands of marine animals are dying due to the accumulation of plastics. To stop the consumption of plastics, people can gradually reduce its need. For example, instead of plastics, multiple containers can be used, or citizens need to separate them from the garbage, and send them to the recycling.
+
+In conclusion, there are several ways to improve the natural environment, and I said only about one solution. Despite this fact, the overuse of natural resources may lead to miserable consequences. However, having awareness of the environment will bring a new, cleaner, and healthier life for all the people.
+
+Comment from human expert: The essay exhibits a variety of sentence structures, but there are grammatical errors present. For example, ""it will affect to the global warming"" should be ""it will contribute to global warming."" The use of punctuation and sentence formation is generally correct, but there are occasional errors that could be improved.
+
+
+Example 2 (student got 6.5 on Grammatical Range and Accuracy): 
+Prompt: The increase in the production of consumer goods results in damage to the natural environment. What are the causes of this? What can be done to solve this problem?
+
+Essay: Nowadays, as consumer goods are produced at high scale, more damage has been inflicted on the environment. There are two primary reasons such as, chemical by products and mass manufacture of disposable goods out of many, which need remediation at individual as well as government level. 
+
+First of all, the increase in the production of buyer products harms the planet a way that chemical by-product from the manufacturing process and the mass production of disposable goods. As more goods are produced, more toxic wastes and emissions are released from factories into nature.  Water resources are contaminated, and the air is severely polluted, which results in the death of many marine and terrestrial animals. Also, to accommodate buyer's requirements, more single-use products are introduced, most of which are non-biodegradable. Though having a short lifespan, these products can remain as wastes for thousands of years, turning our planet into a huge landfill and posing a threat to living habitats of all creatures.
+
+Actions must be taken to minimize the negative impact on the climate arising from the increasing amount of user goods. First companies should promote the use of eco-friendly materials. For example, giant coffee chain Starbucks has recently replaced plastic straws with reusable alternatives made of paper or bamboo. In addition, many governments are also encouraging the development of more sustainable manufacturing processes. For example, many states in India giving tax relief for industries using renewable energy.
+
+In conclusion, increased number of shopper products and chemical released by industries are principal reasons.  To address this issue, the government and industrialist join hands together to make production, climate friendly by switching to greener materials.
+
+Comment from human expert: The candidate demonstrates a variety of sentence structures, including complex and compound sentences. There are a few grammatical errors:     ""Nowadays, as consumer goods are produced at high scale, more damage has been inflicted on the environment."" (missing subject)     ""Actions must be taken to minimize the negative impact on the climate arising from the increasing amount of user goods."" (awkward phrasing) The candidate could benefit from proofreading the essay more carefully to eliminate grammatical errors.
+
+
+Example 3 (student got 7.5 on Grammatical Range and Accuracy): 
+Prompt: Some people believe that the government should take care of old people and provide financial support after they retire. Others says individuals should save during their working years to fund their own retirement. What is your opinion? Is it a positive or negative development.
+
+Essay: It is argued whether or not governments should help senior citizens. Although I acknowledge that we all have the responsibility to save money for retirement, I also have a firm belief that elderly people should receive support from the state. 
+
+There are several reasons behind the situation about old-age individuals should get government support. One is the job market is increasingly becoming competitive. For example, there are hundreds of applications for one position in a company; whereby results in competition between elders and youth. In many cases, these young adults are usually well-prepared for the post with relevant academic qualifications that provide fewer job opportunities for the older generation making it difficult to pay for housing and food. In the end, the elderly people are fragile and they lack the physical capabilities to work; thereby it could be dangerous for their health, especially in some labour works, like in restaurants. 
+
+Moreover, some aged citizens may need extra assistance regarding basic living like cooking, cleaning and shopping, but many elders are left out of care by their offspring. This is because of the modern social system where many workers are often pushed to be committed only to their careers. Thus, it is one of the roles of the government to take into consideration of old and physically vulnerable members of society because when they were young and healthy, they engaged themselves in the development of society and paid a lot of tax. As a result, elderly patients need special care from the nation.
+
+To summarize, I believe that the authorities should favour their society, especially the old group of people because of their physical inability to work and lack of job opportunities according to their strength and capabilities.
+
+Comment from human expert: The essay exhibits a variety of sentence structures, demonstrating a good grasp of grammar. There are a few grammatical errors, such as ""In many cases, these young adults are usually wellprepared"" (prefer ""In most cases, these young adults are generally wellprepared"") and ""extra assistance regarding basic living"" (prefer ""additional assistance with daily tasks""). The use of punctuation and sentence formation is generally accurate, enhancing the overall readability.
+
+
+Example 4 (student got 8.5 on Grammatical Range and Accuracy): 
+Prompt: SOME PEOPLE BELIEVE THAT EVENTUALLY ALL JOBS WILL BE DONE BY ARTIFICIALLY INTELLIGENT ROBOTS. WHAT IS YOUR OPINION?
+
+Essay: Technology is the main reason for the different changes in  modern reality. Some people think that artificially intelligent robots will do all work in the future. From my point of view, it is impossible that robots can replace a person in all employment sphere. In this essay, I shall elaborate on the reasons for both views on this topic  further.
+
+On the one hand, nowadays it is very difficult to imagine real-life without technologies. Those devices helpful for doing tacks  such as clean up a house, drive a car and so on. However, during the last decades,  robots also have opportunities  to do medicine operations and  collect important information. For instance,  NASA's robots make research on Marc. Therefore, we can unbox fact that the surface of  Marc has  water particles.
+
+On the other hand, the robots are emotionless and  cold machines which can do the task only based on programs. They do not have the ability to make logical decisions or totally understand the feelings of a person. That is why the robot can not replace  the body if he works in the type of job where the worker should support or give life advice. For example, teachers are not only people who help  students to rich  academic  achievements  but also individuals who explain moral normal in the community.
+
+To sum up, I believe that robots make our life more comfortable and easier. However, I confidence that they can not to do all  work for a person.The reasons for that and for  the opposite opinion was demonstrated above.
+
+Comment from human expert: The essay demonstrates a good range of sentence structures, including both simple and complex sentences. Grammar is generally accurate, although there are a few minor errors, such as ""NASA's robots make research on Marc"" instead of ""conduct research on Mars"" and ""rich academic achievements"" instead of ""achieve academic success."" Punctuation and sentence formation are generally correct.
+
+
+Notice that above example concisely evaluate each field in the marking scheme, whether the criteria is fulfilled or not, and did not provide advantages or disadvantages
+You are going to provide response only address how well the student addressed each field in the marking scheme. Ensure your comments are as concise as above examples, which evaluate each field in the marking scheme
+
+Think of the following step by step:
+1. Did the student frequently use complex structures?
+2. How often is there a grammar mistake in sentences?
+3. Errors in punctuation?
+4. Was the essay easy to read?
+5. Combine everything above and provide response
+
+Provide one sentence to each field of marking. Only include the comments in the response. Do not mention any band scores in your comments. 
+Evaluate following student response on Grammatical Range and Accuracy:
+
+
+
+
+
+
+
+
