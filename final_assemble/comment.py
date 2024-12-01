@@ -4,8 +4,11 @@ from openai import OpenAI
 
 model = "gpt-4o-mini"
 
-with open("key.txt") as f:
-    key = f.read().strip()
+try:
+    with open("key.txt") as f:
+        key = f.read().strip()
+except (FileNotFoundError, IOError):
+    key = ""
 
 if key:
     client = OpenAI(api_key=key)
