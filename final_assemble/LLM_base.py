@@ -46,19 +46,6 @@ def process_input(prompt, essay):
 
     yield "Generating comments complete ... Calculating suggested band score"
     
-    # classifier_output = []
-
-    # for i, model in enumerate(models):
-    #     classifier_input = f"Prompt: {prompt}\n\nEssay:{essay}\n\nComment: {comments[i]}"
-    #     inputs = tokenizer(classifier_input, return_tensors="pt").to(device)
-    #     outputs = model(**inputs)
-    #     logits = outputs.logits
-    #     predicted_class = logits.argmax(dim=1).item()
-    #     classifier_output.append(predicted_class)
-
-    # avg = sum(classifier_output) / len(classifier_output)
-    # final_band_score = math.ceil(avg)
-    # final_band_score = class_mapping[final_band_score]
     scores = []
     for i, each in enumerate(comment_categories):
         yield f"Generating Band Score for {each} ..."
@@ -73,7 +60,7 @@ def process_input(prompt, essay):
         )
         # print(Prompt, end='\n\n\n\n')
         completion = client.chat.completions.create(
-            model="gpt-4o-mini",
+            model=model,
             messages=[
                 {"role": "system", "content": "You are a IELTS Writing Task 2 grader"},
                 {"role": "user", "content": Prompt}
