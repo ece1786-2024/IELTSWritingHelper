@@ -1,3 +1,6 @@
+if __name__ == "__main__":
+    print("The system is loading ... Will take less than 10 sec ...")
+
 from transformers import AutoTokenizer, AutoModelForSequenceClassification, AdamW, get_scheduler
 import torch
 from torch.nn.functional import softmax
@@ -14,6 +17,8 @@ import numpy as np
 
 from comment import category as comment_categories
 from comment import generate_comment
+
+from tips import generate_tips
 
 import gradio as gr
 import time
@@ -83,7 +88,9 @@ def process_input(prompt, essay):
     
     output += f"Suggested overall Band Score: {final_band_score}\n\n"
 
-    output += f"Tips for improvement: \nCurrently unavailable"  # TODO
+    yield "Band Score Calculation Complete. Generating Tips for Improvement."
+    all_comments = '\n'.join(comments)
+    output += f"Tips for improvement: \n{generate_tips(prompt, essay, all_comments)}"
 
     yield output
 

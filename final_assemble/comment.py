@@ -2,7 +2,7 @@ import pandas as pd
 from openai import OpenAI
 
 
-model = "gpt-4o"
+model = "gpt-4o-mini"
 
 try:
     with open("key.txt") as f:
