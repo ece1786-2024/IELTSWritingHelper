@@ -1,0 +1,87 @@
+Provide comments on the Coherence and Cohesion aspect of an IELTS Task 2 Writing response.
+Use the following 'Prompt' as the test question and the 'Essay' as the test taker's written response.
+Consider the following marking scheme criteria for Coherence and Cohesion: 
+
+"Band Score 5: - There is some organisation but may not use paragraphs. - Uses linking devices but with mistakes or inappropriate use. - May be repetitive due to lack of referencing.",
+"Band Score 6: - Organised information coherently. - Uses paragraphs but not always logically. - Uses linking devices effectively but there may be errors in linking between and within sentence. - Uses referencing but not always clearly.",
+"Band Score 7: - Logically organises information. - Good paragraphing. - Has one central topic for each paragraph. - Uses a range of linking devices. - May over or under use linking devices. - Good referencing.",
+"Band Score 8: - Information and ideas are organised logically. - Paragraphing is sufficient and appropriate. - Manages all aspects of linking and cohesion. - No problems with referencing."
+
+Here are a few Coherence and Cohesion comments on the student essays, you goal is to study how human expert provide comments, and provide a comment on a new essay.
+Example 1 (student got 6.0 on Coherence and Cohesion): 
+Prompt: The increase in the production of consumer goods results in damage to the natural environment. What are the causes of this? What can be done to solve this problem?
+
+Essay: It is believed that the natural environment is destroyed by the growth of product consumption. In my opinion, one of the reasons is the increasing demand for people consumption lead to escalate industrial waste amounts emit into the atmosphere. This problem results from the substantial number of causes to which several solutions will be proposed in this essay.  
+
+On the one hand, the world’s population is increasing day by day, which is one of reason for pollution. As the growth of population, we are not using natural resources. It is believed that nothing can save when a human change their mind about safe their life environment. The industrial activities are the way to cause the air pollution and water pollution, which would damage the marine and terrestrial animals. The fact that deforestation to get the wood to make the furniture would lead to the soil erosion. There is some the solution of goods consuming, the politicians impose punishment on companies that harm to the environment during the production process.
+
+On the other hand, oil exploitation is a way to depletion of natural resources. For instance, some famous brands of drinks started an activity that the drink will be discounted if the costumers bring their own cup. There are very good idea for reducing the goods in plastic and raise awareness for the residents, which encourage them using eco-friendlier product. It creates a good habit for people to save the community environment.
+
+To conclude, the government and people need to join a hand in manufacturing process more environmentally friendly. Having awareness of the environment will bring a healthier, cleaner and convenient accommodation for residents.
+
+Ccomment from human expert: The essay lacks a logical flow of ideas and transitions between sentences and paragraphs are unclear. Connecting words and phrases are used inconsistently, affecting the smooth progression of ideas. The overall organization of the essay is weak.
+
+
+Example 2 (student got 7.0 on Coherence and Cohesion): 
+Prompt: If a product is good or it meets people's needs, people will buy it. So advertising is unnecessary and no more than entertainment. Do you agree or disagree?
+
+Essay: In the modern world, the masses purchase only those things which are of great quality and meet their requirements. Therefore, folks believe that adverts are no longer needed and just a source of entertainment. I completely disagree with the notion because advertisements help people to know about new products and it influences them.
+
+To commence with, if companies advertise their products, then the customers would come to know about their newly launched product. They not only gain information about its features, but also tell them how to use it. So, that is why advertisements are needed. For example, Apple is a renowned brand in mobile-phone and mainly known for its quality products. Recently, according to their in-house survey, it is found that there is a fifty percent decline in the sale of the newly launched phone despite its build because they did not do any promotions. Hence, advertisement plays a pivotal role to sell new products.
+
+Moreover, commercials also support the companies to push the customers to buy their goods because there is a huge competition in the market among the companies, and the number of high-quality products is available to purchase. Thus to boost the sale adverts are essential. For instance, in Inida, there are two big brands namely Bajaj and Hero Honda, who manufacture bikes. Their equipment is equally good, so to convince the folks to buy their product and boost its sale, they promote it. Thereby, it is apparent that advertising is vital to selling things.
+
+To summarize, advertisements are important even if the product quality is good. In my opinion, it informs the masses about new launches as well as help them to choose the right product.
+
+Comment from human expert: The essay exhibits a logical sequence of ideas, with clear transitions between sentences and paragraphs. Connecting words and phrases are used effectively to maintain a smooth progression of thought. The overall organization and structural integrity of the text are wellmaintained.
+
+
+Example 3 (student got 8.0 on Coherence and Cohesion): 
+Prompt: Interviews form the basic selection criteria for most large companies. However some people think that interview is not a reliable method of choosing whom to employ.To what extent do you agree or disagree?
+
+Essay: Job interviews are commonly undertaken by companies of all sizes seeking candidates to fill a role. They often consist of dialogues between a Human Resources representative of these organisations and the professional interested in the position. During the conversation, the applicant's profile in terms of qualifications, skills and work experience is assessed against the criteria and employer’s expectations. However, some people argue this approach is insufficient for capturing the right employee. In my opinion, to ensure a more accurate hiring process, other methodologies should be explored along with interviews, such as group activities and personality quizzes.
+
+The importance of interviews when it comes to selecting new individuals to integrate a team cannot be dinned. It has proved to be the most traditional and practical framework largely adopted worldwide. They can offer vital insights about an applicant and lead to more informed decisions. However, individuals often act like robots when being interviewed, answering questions in a way recruiters will be happy about. In this sense, other approaches should be introduced for a more holistic understanding of the candidate's capabilities.
+
+Modern organisations are already introducing new techniques to choose4 the best matches for their teams. These contemporary assessments evaluate professionals during activities designed to capture the candidate's behaviour in complex situations where pressure and conflicts are common.  In this case, applicants tend to express their real selves, values and logical thinking. The findings are often combined with the interview results in a profile-matching exercise.
+
+Another way to further assess the job seekers' profiles is by assigning them personality quizzes. Quizzes are powerful tools that can be used to gather information about a professional’s strengths and weaknesses. In addition, these tests can detect which professionals can naturally act like mediators and which need to be led by others. Thus, they can assist in allocating workers to the right team and role.
+
+In conclusion, interviews will always be important as they are still insightful, simple, and straightforward, demanding minimum resources to be executed. Nevertheless, when combined with other methodologies, the hiring process may become more precise and efficient. In this case, companies need to invest time and money to introduce these complementary approaches, which may make sense for some businesses and positions but not the majority.
+
+Comment from human expert: The essay is wellorganized and easy to follow, with clear transitions between sentences and paragraphs. Connecting words and phrases are used effectively to maintain a smooth progression of ideas. The logical sequence of information is maintained throughout the essay, with each paragraph building upon the previous one. The overall organization and structural integrity of the text are strong.
+
+
+Example 4 (student got 8.5 on Coherence and Cohesion): 
+Prompt: Some people believe that robots will play an important role in future societies, while others argue that robots might have negative effects on society. Discuss both views and give your opinion
+
+Essay: The advancement of technology is seen in almost all part of human life. This has caused contrasting views, with some people believing that there is more profit to society if machines play substantial roles, and others arguing otherwise. I am inclined to agree with the latter, as heavy dependence on robots will lead to an inactive lifestyle, and also a high rate of unemployment is another problem that will be faced. 
+
+On one hand, Machines can prove very effective in areas that require repetition and also tasks such as lifting heavy objects. This is useful, particularly in the manufacturing industry. Moreover, Audi, a foremost automobile company, already uses robots to assemble its newest release of cars.  Furthermore, these mechanical bodies couple over 1,000 vehicles in a day, such a task will be arduous for humans.
+
+On the other hand, machines pose a number of demerits. Firstly, high dependence on these mechanical objects can lead to a sedentary lifestyle. For example, in ,Japan many people no longer walk to go shopping, as drones have been provided by many shop vendors. Consequently, this leads to health-related problems, such as spinal curvature, and this does not portend well for  society. Secondly, a pro-machine community will lead to a high rate of joblessness, as employers find these mechanical bodies more efficient and cheaper. For instance, in India reports show that many employees are replaced by their lifeless counterparts and this will only increase over time. There is already a cry among the population due to the high rate of retrenchment by companies.
+
+To conclude, robots have their own usefulness especially when it comes to carrying out mundane tasks. However, the negative impacts such as laziness and joblessness they cause to  society do not make them admirable as they are perceived.
+
+Comment from human expert: The essay is well-organized with clear transitions between sentences and paragraphs. The logical sequence of ideas is maintained throughout the essay, and connecting words and phrases are used effectively to create a smooth progression of ideas.
+
+Notice that above example concisely evaluate each field in the marking scheme, whether the criteria is fulfilled or not, and did not provide advantages or disadvantages
+You are going to provide response only address how well the student addressed each field in the marking scheme. Ensure your comments are as concise as above examples, which evaluate each field in the marking scheme
+
+Think of the following step by step:
+1. How is the essay's organisation?
+2. Did the student provide sufficient paragraphing, and well are they in terms if logical connection?
+3. Did the student use linking device, and how well was the cohesivity?
+4. How was the referencing
+5. Combine everything above and provide response
+
+Provide one sentence to each field of marking. Only include the comments in the response. Do not mention any band scores in your comments. 
+Evaluate following student response on Coherence and Cohesion:
+
+
+
+
+
+
+
+

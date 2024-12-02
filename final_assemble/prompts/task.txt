@@ -1,0 +1,90 @@
+Provide comments on the Task Achievement aspect of an IELTS Task 2 Writing response.
+Use the following 'Prompt' as the test question and the 'Essay' as the test taker's written response.
+Consider the following marking scheme criteria for Task Achievement: 
+
+"Band Score 5: - Does not completely address the task. - May follow the general topic but not the specific issue in the essay question. - There is a position but it is not always clear. - Any opinion given is unclear. - Possibly no conclusion. - Main ideas are not developed. - Some irrelevant detail."
+"Band Score 6: - Addresses the task – both the topic and issue are addressed. - Presents a relevant position. - Any opinion given is clear. - There is a conclusion – it may be repetitive or unclear. - Main ideas are relevant. - Ideas are not developed enough."
+"Band Score 7: - Addresses all parts of the task. - All issues in the question are answered. - Presents a clear position throughout the essay. - Any opinion given is supported in all paragraphs in the essay. - Main ideas are relevant. - Ideas are developed but there may be a lack of focus with supporting ideas or over generalisation."
+"Band Score 8: - Sufficiently addresses all parts of the task. - All issues in the essay question are answers well. - Presents a clear position throughout the essay. - Any opinion given is supported in all paragraphs in the essay. - Main ideas are relevant. - Ideas are developed, extended and well supported."
+
+Here are a few Task Achievement comments on the student essays, you goal is to study how human expert provide comments, and provide a comment on a new essay.
+Example 1 (student got 5.5 on Task Achievement): 
+Prompt: Some experts believe that when a country is already rich, any additional increase in economic wealth does not make its citizens any more satisfied. To what extent do you agree or disagree?
+
+Student Essay: The richness of the country is one of the indexes for measuring the economic wealth of the country and this is connected with the satisfaction of people who live in it. Some argue that the trend in which people decrease their political and economic complaints as the country is getting richer. On the other hand, others believe the movement of eagerness to get advanced success more than their needs lets people be down. In my opinion, I show that too much seeking to become rich makes people distrust the country and unmatch their needs.
+
+Firstly, growth is not the thing that always needs to be prioritised.
+
+For developing countries, financial growth or getting a larger scale business platform is one of the emergency tasks which the country has to go through, however, developed countries already have the stable financial resource and can focus on other factors for their individuals more than success as the country which means the country which does not need to be worried about their financial vulnerability have more choice to spend their resource to develop next-step structures such as welfare, environment, and human rights. Facing an adequate social level step allows the country to grow in a proper way.
+
+Additionally, the purpose of the governmental policy is based on the needs of the citizens, moreover, these policies should be aimed at solving the issues or matching what they want the country to be on the premise. It means that a policy which does not follow local preferences can not make people more satisfied, furthermore, there is a possibility of losing their trust in the government.
+
+In conclusion, the richness of the country is premised on people's desires such as economic growth or getting out of a poor situation. Therefore, a policy which ignores what people want would negatively work on their trust in the government and reduce the motivation of workers.
+
+Comment from human expert: The candidate has addressed the task and provided a clear stance on the issue. The essay addresses all aspects of the task, providing relevant arguments and evidence to support the stance. However, the essay lacks depth in analysis and does not fully explore the complexities of the issue.
+
+
+Example 2 (student got 6.5 on Task Achievement): 
+Prompt: People are becoming dependent on the Internet and phone. Do the benefits of this outweigh the disadvantages?
+
+Student Essay: In today's modern era technology plays an important role. People are getting use to of internet and phone. This essay will discuss advantages and disadvantages of that people  who are becoming dependent on internet and phone.
+
+On the one hand , the main advantages of people's dependency on phone and internet are trend of social media and the google which helps people in various ways. In other words , due to internet and phone people are more aware about the social  information such as what are their friends activites  . For insance, people now-a-days checks in , post pictures and events on facebook. Additionally , uses of google is  another positive aspect of dependency on phone and internet is  google works like it works as search engine , google map , google fitness app helps people a lot in different ways.
+
+on the other hand , there are several drawbacks of people's dependency on phone and internet which are wastage of time , strain on eyes and getting wrong information by kids . Firstly , phone and internet takes a lot of time of people from their busy schedule as they are getting use to day by day due to latest apps .for example , because of this pandemic online classes increases the use of apps by students like zoom,  cam scan etc .Secondly , continuously use of phone for a long time leads to strain on eyes .further , getting wrong content by kids from internet which tend to increase the crime rate 
+
+This essay has discussed some positives and negatives of this. To conclude while the benefits are numerous however, the drawbacks should not be overlooked.
+
+Comment from human expert: The candidate has addressed the task by discussing both the advantages and disadvantages of people becoming dependent on the Internet and phone. The ideas presented are generally clear and relevant to the task, but some of the arguments are not adequately supported. Not all aspects of the task have been covered, as the essay does not provide a clear conclusion that weighs the advantages against the disadvantages.
+
+
+Example 3 (student got 7.5 on Task Achievement): 
+Prompt: In many countries today, parents are able to choose to send their children to single-sex schools or co-educational schools. Some people think that children going to single-sex schools have disadvantages later in life. To what extent do you agree?
+
+Student Essay: In the world, many countries have single-sex schools and mixed-sex schools and parents can choose to send their children in any of them. It is thought by some that children who study in gender specific schools face difficulties in the future. I completely agree with this statement. 
+
+Firstly, students would be reluctant to the opposite sex as they would be uncomfortable in talking to or working with them. This, in turn, can put an adverse effect on their overall development. For instance, a study conducted by the University of Cambridge revealed that children taught in segregated schools find it difficult to communicate with their opposite sex. Secondly, if boys and girls are taught in separate schools, they may have prejudiced thoughts for their counterparts due to misunderstanding or lack of mutual understanding. 
+
+In addition, they will lack in availing the opportunity to share or grab ideas from each other if taught in separate schools. Since boys  and girls have different thinking and attitude to life, they can learn many things from each other, however, the are deprive of this learning in gender based schooling.  For example, most girls tend to be attentive and sincere their studies and boys, on the other hand, have more liveliness. The can inculcate different personality aspects from each other. 
+
+In conclusion, I reiterate that students who study  are not better prepared for the real world in single gender schools. They would be little confident in front of their opposite sex and unable to understand each other.
+
+Comment from human expert: The candidate has effectively addressed the given task by discussing the disadvantages of singlesex schools. Ideas are presented with clarity and relevance, and the essay adequately covers all aspects of the task. Arguments are supported with appropriate examples.
+
+
+Example 4 (student got 8.0 on Task Achievement): 
+Prompt: The increase in the production of consumer goods results in damage to the natural environment. What are the causes of this? What can be done to solve this problem?
+
+Essay: It is true that a rise in production leads to a wide range of environmental problems. There are many steps which can be taken by governments and individuals to deal with this issue.
+
+Producing excessive products has a significantly negative impact on our planet. Many reasons cause this case. First of all, for the sake of making more profit, many companies are producing goods as much as they can, this puts extremely great pressure on natural resources. For example, plenty of rainforests which are vital to stabilize climate change are destroyed to make paper. At the same time, due to a lack of supervision, many factories, which use fossil fuel energy,  pay no attention to limiting the emission of greenhouse gases, as a result, the more products they produce, the more they contribute to  global warming. Lastly, From a personal perspective, the promotion of new products encourages consumers to update and replace their commodities frequently, this may cause more hazardous substances to be discharged into the natural environment.
+
+However, there are many steps that governments and individuals could take to tackle these problems. Firstly, authorities can introduce laws to reduce the emission of waste air, such as increasing taxes on the use of coal and oil, in this way, plants can be forced to manage to use green energy. Furthermore, providing subsidies can be seen as a means to encourage companies to invest in researching alternative materials, in order to avoid  the excessive consumption of natural resources. Lastly, an essential solution is to educate people about the importance of protecting the natural environment, accordingly, consumers may think twice when they make the purchase.
+
+In conclusion, governments and individuals can do much more to avoid unnecessary production and to protect our planet.
+
+Comment from human expert: The candidate has addressed the task effectively by identifying the causes and solutions related to environmental damage caused by consumer goods production. Ideas are presented clearly and relevantly, supporting the task requirements. All aspects of the task have been adequately covered with appropriate arguments and evidence. The candidate demonstrates a good understanding of the topic and fulfills the requirements of the task.
+
+Notice that above example concisely evaluate each field in the marking scheme, whether the criteria is fulfilled or not, and did not provide advantages or disadvantages
+You are going to provide response only address how well the student addressed each field in the marking scheme. Ensure your comments are as concise as above examples, which evaluate each field in the marking scheme
+
+Think of the following step by step:
+1. How much does the student essay address the task? Half? All? Not at all?
+2. Were the issues related to the topic answered in the essay?
+3. Was the student position clear in the essay?
+4. Is there any opinion given to support each paragraphs? Were all paragraphs given an opinion?
+5. Is there a conclusion?
+6. Are main ideas relevant?
+7. How were the idea developped in the student's essay?
+8. Combine everything above and provide response
+
+Provide one sentence to each field of marking. Only include the comments in the response. Do not mention any band scores in your comments. 
+Evaluate following student response on Task Achievement:
+
+
+
+
+
+
+
+

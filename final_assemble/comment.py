@@ -15,6 +15,7 @@ if key:
 else:
     client = OpenAI()
 
+
 category = ["Task Achievement", "Coherence and Cohesion", "Lexical Resource", "Grammatical Range and Accuracy"]
 task = (
     "Band Score 5: - Does not completely address the task. - May follow the general topic but not the specific issue in the essay question. - There is a position but it is not always clear. - Any opinion given is unclear. - Possibly no conclusion. - Main ideas are not developed. - Some irrelevant detail."
@@ -46,25 +47,20 @@ grammar = (
 
 criteria = [task, coherence, lexical, grammar]
 
+prompts = []
+for each in ['task.txt', 'coherence.txt', 'lexical.txt', 'grammar.txt']:
+    with open(f'prompts/{each}', encoding="utf-8") as f:
+        prompts.append(f.read())
 
-def generate_comment(prompt, essay, category):
+
+def generate_comment(prompt, essay, target_category):
     input1 = f"Prompt: {prompt}\nEssay: {essay}"
-    Prompt = (
-        f"Provide comments on the '{category}' aspect of an IELTS Task 2 Writing response."
-        "Use the following 'Prompt' as the test question and the 'Essay' as the test taker's written response."
-        "Focus solely on how well the essay addresses the task, mentioning specific strengths or weaknesses,"
-        "and include at least one example from the essay to support your points. Ensure your comments are concise (under 120 words)"
-        "and tailored to the essay's quality, providing distinct feedback for varying levels of performance."
-        "Only include the comments in the response."
-        f"Consider the following criteria for '{category}': {criteria} "
-        "Do not mention any band scores in your comments."
-        f"{input1}"
-    )
-
+    corresponding_prompt = category.index(target_category)
+    Prompt = f"""{prompts[corresponding_prompt]}\n\n{input1}"""
     completion = client.chat.completions.create(
         model=model,
         messages=[
-            {"role": "system", "content": "You are a helpful assistant."},
+            {"role": "system", "content": "You are a professional in IELTS writing task 2."},
             {"role": "user", "content": Prompt}
         ]
     )
@@ -84,5 +80,5 @@ However, the critical impacts are also not avoidable.Firstly, it exposes kids an
 To put this in a nutshell, I can say that advertisement is beneficial phenomenon with a number of insignificant drawbacks. In my view, negative advertising effects can be lowered with help of government using stringent approach and awareness campaigns.
 """
 
-    comment = generate_comment(prompt, essay, category[0])
+    comment = generate_comment(prompt, essay, category[3])
     print(comment)
