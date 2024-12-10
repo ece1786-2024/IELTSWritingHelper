@@ -29,7 +29,7 @@ Running on local URL:  http://127.0.0.1:xxxx
 
 ### Architecture
 
-![1786 project architecture](assets\1786 project architecture.png)
+![1786 project architecture](assets/1786_Project_Architecture.png)
 
 For **mode 2**: The box with circle 2 is also LLM-based. 
 
