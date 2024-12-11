@@ -170,3 +170,5 @@ cython_debug/
 *key*
 /results
 /saved_models
+/llama3_classifier/results
+/S2_classifier_aug/results
